@@ -1,0 +1,5 @@
+fr\isen\java2\db\daos\MovieDao.class
+fr\isen\java2\db\daos\GenreDao.class
+fr\isen\java2\db\entities\Movie.class
+fr\isen\java2\db\daos\DataSourceFactory.class
+fr\isen\java2\db\entities\Genre.class
